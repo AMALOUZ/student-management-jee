@@ -1,8 +1,0 @@
-ma\uca\estessaouira\jee\servlet\DeleteStudentServlet.class
-ma\uca\estessaouira\jee\servlet\EditStudentServlet.class
-ma\uca\estessaouira\jee\dao\StudentDAO.class
-ma\uca\estessaouira\jee\servlet\AddStudentServlet.class
-ma\uca\estessaouira\jee\dao\StudentDAOImpl.class
-ma\uca\estessaouira\jee\model\Student.class
-ma\uca\estessaouira\jee\servlet\StudentListServlet.class
-ma\uca\estessaouira\jee\util\DBConnection.class
